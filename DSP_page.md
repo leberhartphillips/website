@@ -1,4 +1,4 @@
-# The mysterious movements of the Diademed Sandpiper Plover (*Phegornis mitchellii*)
+# The mysterious movements of the Diademed Sandpiper Plover
 
 ## Project description
 
@@ -18,6 +18,8 @@ To track the annual movements of DSP, our project utilizes two tagging technolog
 
 Data collection during the austral winter is still ongoing, but preliminary evidence suggests that DSP do not exhibit concerted latitudinal or elevational migrations. Rather, DSP remain sedentary around thermal springs used during the breeding season, or move to adjacent thermal springs up to 150 km away -- presumably where local carrying capacity allows for over-wintering. Ultra high resolution satellite imagery (\~15cm<sup>2</sup> pixels) confirms that the thermal springs remain snow free despite \>3m of snow cover. Our results demonstrate that DSP are a unique 'extremophilic' shorebird whose range may be restricted, in part, by geothermal activity. Our future work aims to document the social cohesion and foraging ecology of DSP flocks residing at these winter oases.
 
+project lead: Dr. Luke Eberhart-Hertel (eventually add a hyperlink to my personal page in the website), contact: <a href= "mailto:luke.eberhart@bi.mpg.de">luke.eberhart[at]bi.mpg.de</a>
+
 MEDIA REQUEST @mihai: Here it would be great if you could this photo: https://drive.google.com/file/d/1AG2DAKn9avx9bAhYtEehuUjrrf0PqSoZ (caption: field team at the El Yeso Valley, Chile)
 
 ## Collaborators
@@ -27,3 +29,5 @@ Fernando Diaz<sup>1</sup>, Alejandro Pietrek<sup>2</sup>, Cristian Pinto<sup>1</
 <sup>1</sup>Red de Observadores de Aves y Vida Silvestre de Chile, Santiago, Chile; <sup>2</sup>University of California, Santa Cruz, California, USA; <sup>2</sup>United States Fish and Wildlife Service, Anchorage, Alaska, USA
 
 MEDIA REQUEST @mihai: Here it would be great if you could add the logos for ROC (https://drive.google.com/file/d/1Y5bapSkylYkvaSFp7qN3vrVlvF6PdbLP) and UCSC (https://drive.google.com/file/d/15GH7Nn7Lb-hvwx6_4BfhHV55wOwuSa3q)
+
+## Publications
